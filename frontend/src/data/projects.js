@@ -1,0 +1,31 @@
+export const projects = [
+  {
+    number: "01",
+    title: "Kitchen Order Taking App",
+    type: "Full-stack web application",
+    description: "A multi-shop ordering platform designed to manage online orders, inventory, stock levels, and kitchen operations, with shop-level data isolation and order tracking.",
+    details: ["Role-based access", "Shop-level data isolation", "Stock management", "Order tracking"],
+    tech: ["FastAPI", "SQLAlchemy", "React.js", "Relational database"],
+    image: "https://static.prod-images.emergentagent.com/jobs/cc3ec0e3-6d5f-4559-969b-cdd45e8a408d/images/4afd9cb4dac313c83c8a1455561ca8150501174ba5a987390280651a6c5d24e0.jpeg",
+  },
+  {
+    number: "02",
+    title: "AI Interview Coach",
+    type: "Full-stack AI web application",
+    description: "A full-stack AI application for mock interviews that generates role-specific questions, evaluates responses, and provides personalized feedback and learning plans.",
+    details: ["Role-specific questions", "LLM evaluation", "Personalized feedback", "Learning plans"],
+    tech: ["React.js", "Flask", "Python", "REST APIs"],
+    image: "https://static.prod-images.emergentagent.com/jobs/cc3ec0e3-6d5f-4559-969b-cdd45e8a408d/images/fc4ee3cc3b9d55519175e5e2c9aa6484ccf91ea2eb20993530622e13d3247397.jpeg",
+  },
+  {
+    number: "03",
+    title: "Money Manager Web Application",
+    type: "Personal project",
+    description: "A responsive web application for tracking personal finances, recording transactions, and organizing money-related information in an accessible interface.",
+    details: [],
+    tech: ["Web application"],
+    live: "https://money-manager-1001.vercel.app/",
+    github: "https://github.com/ktbhu/Money-Manager-Web-Application",
+    image: "https://static.prod-images.emergentagent.com/jobs/cc3ec0e3-6d5f-4559-969b-cdd45e8a408d/images/03f52f93db815e3e545bece11efb3e8a0072e9824fa376c99847ee084314437d.jpeg",
+  },
+];

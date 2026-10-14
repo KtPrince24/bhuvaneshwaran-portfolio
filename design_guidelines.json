@@ -1,0 +1,46 @@
+{
+  "app_type": "portfolio",
+  "theme": "Clean light theme as default; white and very light gray backgrounds; deep navy text with blue/teal accents; generous whitespace; modern typography; subtle gradients, thin borders, rounded cards, soft shadows; professional visual hierarchy.",
+  "typography": {
+    "headings": "Plus Jakarta Sans or Outfit (sans-serif, modern geometric)",
+    "body": "Inter or DM Sans"
+  },
+  "colors": {
+    "background": "#FFFFFF",
+    "surface": "#F8FAFC",
+    "card": "#FFFFFF",
+    "text_primary": "#0F172A",
+    "text_secondary": "#475569",
+    "primary": "#2563EB",
+    "accent": "#0EA5E9",
+    "border": "#E2E8F0"
+  },
+  "image_urls": [
+    {
+      "category": "hero_workspace",
+      "image_url": "https://images.unsplash.com/photo-1778146476147-5f8d4bd03c79?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjA1ODh8MHwxfHNlYXJjaHwxfHxkZXZlbG9wZXIlMjB3b3Jrc3BhY2UlMjBsYXB0b3IlMjBtaW5pbWFsfGVufDB8fHx8MTc5MTk4NTg2N3ww&ixlib=rb-4.1.0&q=85",
+      "description": "Clean developer workspace with code editor"
+    }
+  ],
+  "sections": [
+    "Sticky Responsive Navigation",
+    "Hero Section with CTAs & Editable Placeholders",
+    "About Section",
+    "Education Section",
+    "Technical Skills (Grouped Grid)",
+    "Experience Timeline",
+    "Featured Projects (with verified live demo and GitHub links)",
+    "Development Approach / Services",
+    "Disabled Contact Form (Visibly unavailable until email service is configured) & Editable Placeholders",
+    "Footer with Social Links & Resume Placeholder Note"
+  ],
+  "instructions_to_main_agent": "Build a professional, visually impressive, fully responsive personal portfolio website for K. Bhuvaneshwaran (Software Developer | Full Stack Developer). Ensure all interactive elements have data-testid attributes, use .js/.jsx files as present in the codebase, ensure no transparent headers over content, keep generous whitespace and clean typography.",
+  "UNIVERSAL GUIDELINES FOR MAIN AGENT": [
+    "Use clean light theme with generous whitespace",
+    "No transparent headers without background blur/color",
+    "All interactive elements must include data-testid attributes",
+    "Respect verified facts and links provided in the prompt",
+    "Resume and contact form must follow user preferences (clearly labeled placeholder and visibly unavailable contact form)"
+  ]
+}
+
