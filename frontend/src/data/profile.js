@@ -17,8 +17,8 @@ export const profile = {
 };
 
 export const education = [
-  { institution: "Government College of Technology", degree: "B.Tech in Information Technology", period: "2022–2024" },
-  { institution: "Arulmigu Senthilandavar Polytechnic College", degree: "Diploma in Electronics and Communication Engineering", period: "2019–2022" },
+  { institution: "Government College of Technology", degree: "B.Tech in Information Technology", period: "2021–2024" },
+  { institution: "Arulmigu Senthilandavar Polytechnic College", degree: "Diploma in Electronics and Communication Engineering", period: "2019–2021" },
 ];
 
 export const skills = [
