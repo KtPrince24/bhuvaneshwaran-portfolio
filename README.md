@@ -2,4 +2,4 @@
 
 Full-stack personal portfolio built with React and FastAPI.
 
-Portfolio Link - bhuvaneshwaran.is-a.dev
+Portfolio Link - https://www.bhuvaneshwaran.is-a.dev/
